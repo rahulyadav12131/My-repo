@@ -1,0 +1,228 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* search icon style */
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-brand img {
+    margin-right: 10px;
+}
+
+.search-input-group {
+    position: relative;
+    width: 400px;
+}
+
+.search-input-group .form-control {
+    padding-right: 40px;
+}
+
+.search-input-group .search-icon {
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #6c757d;
+}
+
+.btn-bergabung {
+    background-color: #29a79b !important;
+    color: white !important;
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    background-color: #6D6D6D;
+}
+
+.top-btn-shadow {
+    box-shadow: 0px 15px 30px 0px #78CA934D;
+}
+
+.top-nav-shadow {
+    box-shadow: 0px 8px 30px 0px #0000000D;
+}
+
+/* Footer style */
+footer {
+    background-color: #29a79b;
+    color: white;
+    padding: 40px 0 20px;
+}
+
+.logo {     /* Footer logo style */
+    width: 60px;
+    height: 60px;
+    border: 2px solid white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 120px;
+}
+.logo i {
+    font-size: 30px;
+}
+
+.social-icons a {
+    color: white;
+    font-size: 20px;
+    margin-right: 15px;
+}
+
+.footer-heading {
+    font-weight: 600;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+.footer-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+
+.footer-text {
+    margin-bottom: 10px;
+    font-weight: 300;
+    font-size: 14px;
+}
+
+.copyright {
+    font-size: 12px;
+    font-weight: 300;
+}
+
+/* main container css */
+
+
+.f-t{
+    background-color:  #0be4cb1a;
+    border-radius: 10px;
+    padding: 20px;
+   
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+    color: #333;
+    font: poppins;
+    font-size: 2.5rem;
+}
+
+p {
+    color: #666;
+}
+
+.btn-success {
+    background-color: #78CA93;
+    border-color: #2ecc71;
+    width: 246px;
+    height: 46px;
+    margin-bottom: 20px;
+}
+
+.btn-outline-success {
+    color: #2ecc71;
+    border-color: #2ecc71;
+    width: 184px;
+    height: 46px;
+} 
+
+/*  gamla img*/
+.image-w {      
+
+width: 513px;
+height: 501px;
+border-radius: 5px;
+box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
+}
+
+/* right berthumbuh box start */
+
+.r-box {
+width: 614px;
+height: 461px;
+top: 1460px;
+left: 756px;
+
+
+}
+
+.r-heading {
+width: 611px;
+height: 124px;
+top: 1511px;
+left: 759px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 500;
+line-height: 62.4px;
+letter-spacing: 0.005em;
+text-align: left;
+color: #535353;
+
+}
+
+.savetheworld{
+
+top: 1675px;
+left: 759px;
+
+opacity: 0px;
+font-family: Poppins;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.005em;
+text-align: justified;
+color: #656565;
+
+
+}
+
+.r-btn {
+   
+width: 243px;
+height: 46px;
+top: 1875px;
+left: 756px;
+gap: 0px;
+opacity: 0px;
+box-shadow: 0px 15px 30px 0px #78CA934D;
+}  
+
+/* video chat */
+.video{
+    background-color: #2A9D8F;
+    width: 265.39px;
+    height: 212.12px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    margin-left: 300px;
+} 
+
+
+
+
+.elips {
+    background:rgba(255, 255, 255, 1);
+    height: 63.69px;
+    width: 63.64px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}   /* end video chat */
